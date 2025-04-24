@@ -692,6 +692,10 @@ footer {
     text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
 }
 
+a{
+    color: white;
+}
+
 .wrapper .facebook:hover,
 .wrapper .facebook:hover .tooltip,
 .wrapper .facebook:hover .tooltip::before {
